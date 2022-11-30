@@ -8,7 +8,7 @@ import { ProductButtons } from '../dist/components/ProductButtons';
 
 const producto = {
   id: '1',
-  title: 'Coffee Mug - Card',
+  title: 'Coffee Mug - Card!',
   img: './coffee-mug.png'
 }
 
