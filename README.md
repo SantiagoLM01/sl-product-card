@@ -8,7 +8,7 @@ Este es un paquete de pruebas de despligue en NPM
 ## Ejemplo
 
 ```
-import {ProductCard, ProductImage, ProductTitle, ProductButtons} from 'sl-product-card
+import {ProductCard, ProductImage, ProductTitle, ProductButtons} from 'sl-product-cardsantii'
 ```
 
 ```
